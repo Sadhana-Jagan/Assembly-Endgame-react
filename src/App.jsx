@@ -15,7 +15,6 @@ export default function App() {
       sub: "",
       style: "status-section"
     })
-    console.log(word)
 
     //static declarations
     const alphabets = "abcdefghijklmnopqrstuvwxyz".split("")
